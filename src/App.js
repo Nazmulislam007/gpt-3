@@ -8,6 +8,8 @@ import {
   WhatGPT3,
 } from "./containers/index";
 
+import "./App.css";
+
 function App() {
   return (
     <div className="App">
